@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+
+# Environment variables (contém API keys)
+.env
+
+# Banco de dados SQLite
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Testes
+test_imports.py
+
+# Meta arquivos
+SKILL.md
